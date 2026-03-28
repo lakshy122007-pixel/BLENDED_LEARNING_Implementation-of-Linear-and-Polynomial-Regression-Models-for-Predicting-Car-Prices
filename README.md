@@ -25,8 +25,8 @@ Plot the regression lines for both Linear and Polynomial models. Visualize resid
 ```
 /*
 Program to implement Linear and Polynomial Regression models for predicting car prices.
-Developed by: DAKSHA C
-RegisterNumber:  212224230048
+Developed by: ATHREYA A
+RegisterNumber:  212225240016
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
